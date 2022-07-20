@@ -40,4 +40,4 @@ class ConnectionPool{
     }
 }
 
-
+$n = new ConnectionPool()
